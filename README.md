@@ -1,6 +1,6 @@
 #### OCS  Java SDK Package
 
-OCS Java SDK is an open source compatible MEMCACHED protocol that used to  access ALIYUN's OCS and other compatible Memached service. 
+OCS Java SDK is an open source compatible MEMCACHED protocol client that used to  access ALIYUN's OCS and other compatible Memached service. 
 This pacakge contains a single-threadded,  and thread-safe ALIYUN's OCS client, which supports both asynchronous and synchronous style API,
 and contains full source code.
 
